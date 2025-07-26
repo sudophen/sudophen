@@ -17,7 +17,7 @@ $${\color{lightgreen}Family \space Guy, \space Skins, \space Shameless, \space T
    $${\color{lightgreen}Fractured \space but \space whole, \space Stick \space of \space truth, \space Arkham, \space Telltale, \space Roblox, \space PjSK, \space CR:K, \space Twilight, \space BTD, \space Danganronpa, \space PT, \space Fortnite}$$
 
 $${\color{green}comfort \space characters}$$
-   $${\color{lightgreen}Edward \space Nygma, \space Damian \space Wayne, \space Sid \space Jenkins, \space Philip \space Gallagher, \space Evan \space Hansen, Five \space Hargreeves}$$
+   $${\color{lightgreen}Edward \space Nygma, \space Damian \space Wayne, \space Sid \space Jenkins, \space Phillip \space Gallagher, \space Evan \space Hansen, Five \space Hargreeves, \space Daniel \space Matthews, \space Dipper \space Pines}$$
 
 <div align="center">
  
