@@ -1,4 +1,4 @@
-# $${\color{green}About \space Me \space (WIP)}$$
+# $${\color{green}About \space Me \space}$$
  $${\color{green}My \space name \space is \space Seb, \space Im \space js \space a \space guy?}$$
  $${\color{lightgreen}INTP}$$
  $${\color{lightgreen}4w5}$$
