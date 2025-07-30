@@ -19,7 +19,7 @@ $${\color{lightgreen}Family \space Guy, \space Rick \space and \space Morty, \sp
 
 $${\color{green}comfort \space characters}$$
    $${\color{lightgreen}Edward \space Nygma, \space Damian \space Wayne, \space Respawn, \space Sid \space Jenkins, \space Phillip \space Gallagher, \space Evan \space Hansen, Five \space Hargreeves, \space Daniel \space Matthews,}$$
-   $${\color{lightgreen} Dipper \space Pines, \space Kyle \space Broflovski, \space Brian \space the \space dog}$$
+   $${\color{lightgreen} Dipper \space Pines, \space Kyle \space Broflovski, \space Brian \space the \space dog, \space Haru \space Akinashi}$$
 
 <div align="center">
  
