@@ -1,5 +1,5 @@
 # $${\color{green}About \space Me \space}$$
- $${\color{green}My \space name \space is \space Seb, \space Im \space js \space a \space guy?}$$
+ $${\color{green}My \space name \space is \space Seb, \space Im \space a \space Riddler \space synpath \space❔}$$
  $${\color{lightgreen}INTP}$$
  $${\color{lightgreen}4w5}$$
  $${\color{lightgreen}pls \space int \space or \space check \space the \space sites \space listed!}$$
@@ -15,11 +15,11 @@ $${\color{lightgreen}Family \space Guy, \space Rick \space and \space Morty, \sp
  
   $${\color{green}fandoms \space (games)}$$
    $${\color{lightgreen}Fractured \space but \space whole, \space Stick \space of \space truth, \space Arkham, \space Telltale, \space Roblox, \space PjSK, \space CR:K, \space BTD, \space Danganronpa, \space PT, \space Fortnite,}$$
-  $${\color{lightgreen}Miitopia, \space ACNH, \space }$$
+  $${\color{lightgreen}Miitopia, \space ACNH, \space minecraft}$$
 
 $${\color{green}comfort \space characters}$$
    $${\color{lightgreen}Edward \space Nygma, \space Damian \space Wayne, \space Respawn, \space Sid \space Jenkins, \space Phillip \space Gallagher, \space Evan \space Hansen, Five \space Hargreeves, \space Daniel \space Matthews,}$$
-   $${\color{lightgreen} Dipper \space Pines, \space Kyle \space Broflovski}$$
+   $${\color{lightgreen} Dipper \space Pines, \space Kyle \space Broflovski, \space Brian \space the \space dog}$$
 
 <div align="center">
  
