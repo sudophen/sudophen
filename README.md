@@ -20,7 +20,9 @@ $${\color{lightgreen}Peep \space show, \space TUA !}$$
 
 $${\color{green}comfort \space characters}$$
    $${\color{lightgreen}Edward \space Nygma, \space Damian \space Wayne, \space Respawn, \space Sid \space Jenkins, \space Phillip \space Gallagher, \space Evan \space Hansen, Five \space Hargreeves, \space Daniel \space Matthews,}$$
-   $${\color{lightgreen} Dipper \space Pines, \space Kyle \space Broflovski, \space Brian \space Griffin, \space Haru \space Akinashi, Kel, \space Mark \space Corrigan}$$
+   $${\color{lightgreen} Dipper \space Pines, \space Kyle \space Broflovski, \space Brian \space Griffin, \space Haru \space Akinashi,}$$
+
+$${\color{lightgreen}Kel, \space Mark \space Corrigan, \space Kurtan \space Mucklowe, \space Merlin \space (RedShoe), \space Hiccup \space Horrendous \space Haddock \space III, \space Stanley \space Barber}$$
 
 <div align="center">
  
