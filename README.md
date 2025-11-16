@@ -16,12 +16,12 @@ $${\color{lightgreen}Peep \space show, \space TUA !}$$
  
   $${\color{green}fandoms \space (games)}$$
    $${\color{lightgreen}Fractured \space but \space whole, \space Stick \space of \space truth, \space Arkham, \space Telltale, \space Roblox, \space PjSK, \space CR:K, \space BTD, \space Danganronpa, \space PT, \space Fortnite,}$$
-  $${\color{lightgreen}Miitopia, \space ACNH, \space minecraft}$$
+  $${\color{lightgreen}Miitopia, \space ACNH, \space minecraft, \space Dispatch}$$
 
 $${\color{green}comfort \space characters}$$
    $${\color{lightgreen}Edward \space Nygma, \space Damian \space Wayne, \space Respawn, \space Sid \space Jenkins, \space Phillip \space Gallagher, \space Evan \space Hansen, Five \space Hargreeves, \space Daniel \space Matthews,}$$
    $${\color{lightgreen} Dipper \space Pines, \space Kyle \space Broflovski, \space Brian \space Griffin, \space Haru \space Akinashi, \space Kel, \space Mark \space Corrigan, \space Kurtan \space Mucklowe,}$$
-$${\color{lightgreen}Merlin \space (RedShoe), \space Hiccup \space Horrendous \space Haddock \space III, \space Stanley \space Barber}$$
+$${\color{lightgreen}Merlin \space (RedShoe), \space Hiccup \space Horrendous \space Haddock \space III, \space Stanley \space Barber, \space Herman \space (Waterboy)}$$
 
 <div align="center">
  
