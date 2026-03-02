@@ -16,7 +16,7 @@ $${\color{lightgreen}Peep \space show, \space TUA !}$$
  
   $${\color{green}fandoms \space (games)}$$
    $${\color{lightgreen}Fractured \space but \space whole, \space Stick \space of \space truth, \space Arkham, \space Telltale, \space Roblox, \space PjSK, \space CR:K, \space BTD, \space Danganronpa, \space PT, \space Fortnite,}$$
-  $${\color{lightgreen}Miitopia, \space ACNH, \space minecraft, \space Dispatch}$$
+  $${\color{lightgreen}Miitopia, \space ACNH, \space minecraft, \space Dispatch, \space Hogwarts \space Legacy}$$
 
 $${\color{green}comfort \space characters}$$
    $${\color{lightgreen}Edward \space Nygma, \space Damian \space Wayne, \space Respawn, \space Sid \space Jenkins, \space Phillip \space Gallagher, \space Evan \space Hansen, Five \space Hargreeves, \space Daniel \space Matthews,}$$
