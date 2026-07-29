@@ -10,9 +10,7 @@ WORK IN PROGRESS
 
 <br>
 
-<img align=“left” width="400" height="" alt="image" src="https://github.com/user-attachments/assets/760a2b28-9795-4edf-afe0-aa97531d3873" />
-
-<div align=“center”>
+<img width="400" height="" alt="image" src="https://github.com/user-attachments/assets/760a2b28-9795-4edf-afe0-aa97531d3873" />
 
 <br> <br> <br>
 
@@ -48,7 +46,6 @@ $\color{#256147}{\textsf{ੈ✩‧₊˚}}$ $\color{#ebebb5}{\textsf{ᴛʜᴀɴ�
 <br> <br>
 
 <div align=“center”>
-
 
 <img width="" height="" alt="image" src="https://github.com/user-attachments/assets/b5c4797a-f997-4ac9-8718-662b8eb52c45" />
 
