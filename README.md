@@ -20,7 +20,7 @@ $\color{#878756}{\textsf{𓇼⋆ 𓆟. ° .• .𓆝 .• ° . 𓆟 . ° .• .�
 
 <br> <br>
 
-$\color{#ebebb5}{\textsf{Shoutout to }}$ @title-town $\color{#ebebb5}{\textsf{for dedicating me as the Simon Cambourne of PT!}}$
+$\color{#ebebb5}{\textsf{Shoutout to}}$ [@title-town](https://github.com/title-town) $\color{#ebebb5}{\textsf{for dedicating me as the Simon Cambourne of PT!}}$
 
 <br>
 
@@ -28,7 +28,7 @@ straw and ata
 
 <br>
 
-laptop view
+$\color{#ebebb5}{\textsf{made for laptop view .ᐟ}}$
 
 <br> <br>
 
@@ -36,18 +36,20 @@ $\color{#878756}{\textsf{𓇼⋆ 𓆟. ° .• .𓆝 .• ° . 𓆟 . ° .• .�
 
 <br> <br> <br> <br> <br>
 
-komarev follower count
-shoutouts x2
+![](https://komarev.com/ghpvc/?username=sudophen&label=🐗%20&base=3998&color=774747&)
+
+$\color{#256147}{\textsf{ੈ✩‧₊˚}}$ $\color{#ebebb5}{\textsf{ᴛʜᴀɴᴋꜱ ᴛᴏ ᴍʏ ꜱɪʙʟɪɴɢ}}$ [ᴍᴀʏᴀ](https://github.com/Jaybird-IRL) $\color{#ebebb5}{\textsf{ꜰᴏʀ ᴍᴀᴋɪɴɢ ᴛʜɪꜱ ᴍᴀᴛᴄʜɪɴɢ ɢɪᴛʜᴜʙ .ᐟ}}$ $\color{#256147}{\textsf{༊*·˚}}$
 
 <br>
 
-spotify lyrics
+<img width="350" alt="image" src="https://github.com/user-attachments/assets/21b7ee1d-6115-4d8f-8fa2-599a1d21b1ae" />
+
 
 <br> <br>
 
 <div align=“center”>
 
 
- <img width="" height="" alt="image" src="https://github.com/user-attachments/assets/b5c4797a-f997-4ac9-8718-662b8eb52c45" />
+<img width="" height="" alt="image" src="https://github.com/user-attachments/assets/b5c4797a-f997-4ac9-8718-662b8eb52c45" />
 
 </div>
