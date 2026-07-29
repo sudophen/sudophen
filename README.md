@@ -10,7 +10,7 @@ WORK IN PROGRESS
 
 <br>
 
-left side image
+<img align=“left” width="400" height="" alt="image" src="https://github.com/user-attachments/assets/760a2b28-9795-4edf-afe0-aa97531d3873" />
 
 <div align=“center”>
 
