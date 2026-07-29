@@ -1,29 +1,53 @@
-# $${\color{green}About \space Me \space}$$
- $${\color{green}My \space name \space is \space Seb, \space Im \space a \space Riddler \space synpath \space❔}$$
- $${\color{lightgreen}INTP}$$
- $${\color{lightgreen}4w5}$$
- $${\color{lightgreen}pls \space int \space or \space check \space the \space sites \space listed!}$$
-
-<div align="center">
+WORK IN PROGRESS
+<div align=“center”>
  
-![img](images-removebg-preview.png)
+<img width="" height="" alt="image" src="https://github.com/user-attachments/assets/35bf4c30-0ead-48c8-a599-553658aeb266" />
 </div>
 
-$${\color{green}fandoms \space (shows)}$$
- $${\color{lightgreen}Titans(2013), \space TTG, \space TT(2006), \space DCAMU, \space Southpark, \space IT, \space The \space Boys, \space invincible, \space Twilight, \space Eddsworld, \space Twilight, \space Invader ZIM,}$$
-$${\color{lightgreen}Family \space Guy, \space Rick \space and \space Morty, \space Skins \space (UK), \space Shameless \space (US),}$$
-$${\color{lightgreen}Peep \space show, \space TUA !}$$
- 
-  $${\color{green}fandoms \space (games)}$$
-   $${\color{lightgreen}Fractured \space but \space whole, \space Stick \space of \space truth, \space Arkham, \space Telltale, \space Roblox, \space PjSK, \space CR:K, \space BTD, \space Danganronpa, \space PT, \space Fortnite,}$$
-  $${\color{lightgreen}Miitopia, \space ACNH, \space minecraft, \space Dispatch, \space Hogwarts \space Legacy}$$
+<br> <br>
 
-$${\color{green}comfort \space characters}$$
-   $${\color{lightgreen}Edward \space Nygma, \space Damian \space Wayne, \space Respawn, \space Sid \space Jenkins, \space Phillip \space Gallagher, \space Evan \space Hansen, Five \space Hargreeves, \space Daniel \space Matthews,}$$
-   $${\color{lightgreen} Dipper \space Pines, \space Kyle \space Broflovski, \space Brian \space Griffin, \space Haru \space Akinashi, \space Kel, \space Mark \space Corrigan, \space Kurtan \space Mucklowe,}$$
-$${\color{lightgreen}Merlin \space (RedShoe), \space Hiccup \space Horrendous \space Haddock \space III, \space Stanley \space Barber, \space Herman \space (Waterboy)}$$
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Road+Rage&size=25&letterSpacing=0.2rem&pause=1000&color=256147&center=true&vCenter=true&width=950&lines=%E2%80%9C+Maybe+there+is+a+beast%2C+maybe+it's+only+us..+%E2%80%9C;%E2%80%9C+You+don't+want+Ralph+to+think+you're+batty%2C+do+you%3F+%E2%80%9C;%E2%80%9C+Worried+warrior+%E2%80%9C;%E2%80%9C+I'm+reading+him+huckleberry+finn+%E2%80%9C;%E2%80%9C+You're+just+a+pigs+head+on+a+stick!+%E2%80%9C)](https://git.io/typing-svg)
 
-<div align="center">
- 
-![img2](the_batman-removebg-preview.png)
+<br>
+
+left side image
+
+<div align=“center”>
+
+<br> <br> <br>
+
+$\color{#878756}{\textsf{𓇼⋆ 𓆟. ° .• .𓆝 .• ° . 𓆟 . ° .• .𓆞 ⋆𓇼}}$
+
+<br> <br>
+
+$\color{#ebebb5}{\textsf{Shoutout to }}$ @title-town $\color{#ebebb5}{\textsf{for dedicating me as the Simon Cambourne of PT!}}$
+
+<br>
+
+straw and ata
+
+<br>
+
+laptop view
+
+<br> <br>
+
+$\color{#878756}{\textsf{𓇼⋆ 𓆟. ° .• .𓆝 .• ° . 𓆟 . ° .• .𓆞 ⋆𓇼}}$
+
+<br> <br> <br> <br> <br>
+
+komarev follower count
+shoutouts x2
+
+<br>
+
+spotify lyrics
+
+<br> <br>
+
+<div align=“center”>
+
+
+ <img width="" height="" alt="image" src="https://github.com/user-attachments/assets/b5c4797a-f997-4ac9-8718-662b8eb52c45" />
+
 </div>
