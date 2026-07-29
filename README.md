@@ -24,7 +24,7 @@ $\color{#ebebb5}{\textsf{Shoutout to}}$ [@title-town](https://github.com/title-t
 
 <br>
 
-straw and ata
+$\color{#256147}{\textsf{ଳ⋆｡˚}}$ [strawpage](https://sinkership.straw.page/) $\color{#ebebb5}{\textsf{-}}$ $\color{#774747}{\textsf{.˚⋆ ೃ*  ༄ ⚓︎˚.⋆}}$ $\color{#ebebb5}{\textsf{-}}$ [atabook](https://riddlest.atabook.org/) $\color{#256147}{\textsf{⋆｡𖦹°‧}}$
 
 <br>
 
